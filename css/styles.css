@@ -79,6 +79,7 @@ h1{
     background: url(../resources/pfp1.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: contain; 
 }
 [name="btn2"]{
     background: url(../resources/pfp2.jpg);
